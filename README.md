@@ -103,7 +103,7 @@ After you're finished please remove all the comments and instructions!
 
 > 
 
-- [Back end link](git@github.com:AlphaNtihinduka/react_back_end.git)
+- [Back end link](https://github.com/AlphaNtihinduka/react_back_end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
